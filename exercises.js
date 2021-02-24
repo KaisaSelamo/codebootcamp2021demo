@@ -1,6 +1,9 @@
+// The function gives instructions for exercise selected in option.
+// The instructions are going to come from database.
 function showExerciseData(exercise) {
-    if (exercise == "endurance") {
-        var info = document.querySelector("#info")
+    var info = document.querySelector("#info")
+
+    if (exercise == "endurance") {    
         var one = `
         <h2>Kestävyysvoimaharjoitus</h2>
 
@@ -16,7 +19,6 @@ function showExerciseData(exercise) {
     }
 
     else if (exercise == "maximum") {
-        var info = document.querySelector("#info")
         var one = `
         <h2>Maksimivoimaharjoitus</h2>
 
@@ -32,7 +34,6 @@ function showExerciseData(exercise) {
     }
 
     else if (exercise == "quickcontrol") {
-        var info = document.querySelector("#info")
         var one = `
         <h2>Nopeusvoimaharjoitus</h2>
 
