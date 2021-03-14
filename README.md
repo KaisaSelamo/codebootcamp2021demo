@@ -8,6 +8,9 @@ The pelvic floor exercises are important but it is not easy to remember to do th
 
 My first idea was to do a program, which sends daily a message about instructions for pelvic floor exercise or the information that you have a day of rest for exercises. This felt quite difficult so I decided to start with a program where you can choose an exercise from menu and get instructions. The instructions come from database. With instructions you get also a Tabata timer that takes the data from the database according to the selected exercise.
 
+The first plan:
+<img src="https://drive.google.com/file/d/1Xoasfi8wmGLXP4x71q53SWCYQYGffJjw/view?usp=sharing">
+
 # Where am I now and what next?
 
 Now ready:
@@ -24,6 +27,10 @@ The next steps:
 - exercise instructions from database
 - tabata-timer for exercises
 - information to tabata-timer from database
+
+The plan for the layout:
+<img src="https://drive.google.com/file/d/1xDq-FJeGYYPeAdjoox1kfXQLfYxLIKky/view?usp=sharing">
+<img src="https://drive.google.com/file/d/1j9nz-1FY-hSv5eqi_AHjER4sQ2IvJ085/view?usp=sharing">
 
 When this is ready I start to explore the idea of sending messages of exercises. Probably I try to take the tabata-timer in this too.
 
